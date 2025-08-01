@@ -1,0 +1,5 @@
+uk3_FqR1HjweiqgCwaEzlTLfhDDt8Y4epRwYbslwISzi
+
+
+curl -X GET http://localhost:3001/api/monitors ^
+  -H "Authorization: Bearer uk3_FqR1HjweiqgCwaEzlTLfhDDt8Y4epRwYbslwISzi"
